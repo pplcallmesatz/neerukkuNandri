@@ -14174,3 +14174,6 @@ blockquote.lgx-testi-single:before {
 .contact-icon img{
     max-width: 50px;
 }
+.navbar-nav li a {
+    color: #234380 !important;
+}
